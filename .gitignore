@@ -1,0 +1,16 @@
+*
+
+!_includes/
+!_layouts/
+!_posts/
+!_sass/
+!images/
+!tags/
+!code/
+
+!**/.gitignore
+!**/LICENSE*
+!**/*.md
+!**/*.html
+!**/*.scss
+!**/*.yml
