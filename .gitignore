@@ -7,6 +7,9 @@
 !images/
 !tags/
 !code/
+!assets/
+
+!/favicon.ico
 
 !**/.gitignore
 !**/LICENSE*

@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "figure";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -96,6 +97,16 @@ ol ul, ul ol, ul ul, ol ol {
 
 ul ul, ol ul {
   list-style-type: circle;
+}
+
+table, td, th {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+td, th {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 em, i {
